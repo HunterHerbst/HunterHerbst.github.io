@@ -1,0 +1,27 @@
+@import 'titlebar.css';
+@import url('https://fonts.googleapis.com/css?family=Blinker|Patrick+Hand|Permanent+Marker&display=swap');
+
+/* Reset margins and padding of all elements for a default browser base */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body, html {
+    font-family: 'Blinker', sans-serif;
+    color: #f5f3ef;
+
+    background-color: #333333;
+
+    height: 100%;
+}
+
+.main {
+    position: relative;
+    top: 140px;
+
+    margin-left: 15px;
+    padding-bottom: 25px;
+
+    z-index: 0;
+}
