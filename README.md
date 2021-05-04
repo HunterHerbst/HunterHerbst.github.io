@@ -1,5 +1,5 @@
 # hunterherbst.github.io
-This is a test repo for my DarkwaterKiller site. If you've found this, good job I guess.
+This is just an in general webiste I'll use for various things in life I guess.
 
 ---
 permalink: /index.html
